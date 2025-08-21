@@ -1,5 +1,5 @@
 import React from "react";
-import Logo from "../src/assets/logo.webp"
+import Logo from "../src/assets/asa.jpeg"
 
 function Header() {
   return (
@@ -12,7 +12,7 @@ function Header() {
               src={Logo}
               alt="logo"
               width="120"
-              height="24"
+              height="53"
               className="me-2"
             />
           </a>
