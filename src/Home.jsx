@@ -65,7 +65,7 @@ function Home() {
       </section>
       {/* Games Section */}
       <section className="mb-5">
-        <h3 className="bg-primary text-white p-2">Exciting Games inside 92 Paisa</h3>
+        <h3 className="bg-primary text-white p-2">Exciting Games inside 92 PAk</h3>
         <p className="bg-primary text-white bg-dark">
           92 PAK Game is a mobile app where you play games and win real money. Think of games like colour prediction, card challenges, or spinning lucky wheels. Every time you play well, you earn coins that can be turned into cash. The app is designed for everyone, especially people in Pakistan. You don’t need to be an expert just download it, pick a game, and start playing!
 
