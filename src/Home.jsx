@@ -17,10 +17,11 @@ function Home() {
         <div className="row align-items-center">
           <div className="col-md-6 text-start">
             <h1 className="fw-bold text-primary text-white bg-dark">
-              92 Paisa Game Download APK (Earning App in Pakistan) 2025
+              92 PAK
+               Game Download APK (Earning App in Pakistan) 2025
             </h1>
             <p>
-              92 Paisa is a trending earning app in Pakistan that allows users
+              92 PAK is a trending earning app in Pakistan that allows users
               to play games and earn rewards instantly.
             </p>
             <a href="#" className="btn btn-primary btn-lg my-3">
@@ -40,7 +41,7 @@ function Home() {
 
       {/* Features Section */}
       <section className="mb-5">
-        <h3 className="bg-primary text-white p-2">Unique Features of 92 Paisa</h3>
+        <h3 className="bg-primary text-white p-2">Unique Features of 92 PAK</h3>
         <ul className="bg-primary text-white bg-dark">
           <li>Easy to Use Design</li>
           <li>Free Rewards for New Members</li>
@@ -58,7 +59,7 @@ function Home() {
       <section className="mb-5">
         <h3 className="bg-primary text-white p-2">What is the 92 Pak Game?</h3>
         <p className="bg-primary text-white bg-dark">
-          92 Paisa offers a variety of fun and exciting games such as Ludo,
+          92 PAK offers a variety of fun and exciting games such as Ludo,
           Teen Patti, Poker, Rummy, Dragon vs Tiger, and more.
         </p>
       </section>
@@ -66,7 +67,7 @@ function Home() {
       <section className="mb-5">
         <h3 className="bg-primary text-white p-2">Exciting Games inside 92 Paisa</h3>
         <p className="bg-primary text-white bg-dark">
-          92 Paisa Game is a mobile app where you play games and win real money. Think of games like colour prediction, card challenges, or spinning lucky wheels. Every time you play well, you earn coins that can be turned into cash. The app is designed for everyone, especially people in Pakistan. You don’t need to be an expert just download it, pick a game, and start playing!
+          92 PAK Game is a mobile app where you play games and win real money. Think of games like colour prediction, card challenges, or spinning lucky wheels. Every time you play well, you earn coins that can be turned into cash. The app is designed for everyone, especially people in Pakistan. You don’t need to be an expert just download it, pick a game, and start playing!
 
 One big reason people trust this app is its focus on being genuine and safe. It uses secure methods for all money transactions. For example, when you add money (deposit) or take out your winnings (withdraw), it works with JazzCash and EasyPaisa. These are services many Pakistanis already use daily. Also, the app explains all the rules clearly, so you always know how to play and win fairly 47.
 
@@ -161,13 +162,13 @@ Moreover, the app keeps things exciting with daily rewards. Log in every day, an
       <section className="mb-5">
         <h3 className="bg-primary text-white p-2">Why 92 PAK is More Popular in Pakistan Than Other Platforms</h3>
         <p className="bg-primary text-white bg-dark">
-         92 Paisa has become more popular in Pakistan because it understands what local players need. It supports trusted payment options like JazzCash and EasyPaisa, making deposits and withdrawals fast and safe. The platform also offers free rewards, daily bonuses, and a wide range of exciting games. With simple registration, 24/7 support, and regular updates, it gives a better and smoother experience than many other gaming platforms in the country.
+         92 PAK has become more popular in Pakistan because it understands what local players need. It supports trusted payment options like JazzCash and EasyPaisa, making deposits and withdrawals fast and safe. The platform also offers free rewards, daily bonuses, and a wide range of exciting games. With simple registration, 24/7 support, and regular updates, it gives a better and smoother experience than many other gaming platforms in the country.
         </p>
       </section>
 
       {/* Pros and Cons */}
       <section className="mb-5">
-        <h3 className="bg-primary text-white p-2">Pros and Cons of 92 Paisa</h3>
+        <h3 className="bg-primary text-white p-2">Pros and Cons of 92 PAK</h3>
         <table className="table table-bordered text-center text-white">
           <thead>
             <tr>
@@ -204,7 +205,7 @@ Moreover, the app keeps things exciting with daily rewards. Log in every day, an
                 data-bs-toggle="collapse"
                 data-bs-target="#collapse1"
               >
-                Is 92 Paisa free to use?
+                Is 92 PAK free to use?
               </button>
             </h2>
             <div
@@ -213,7 +214,7 @@ Moreover, the app keeps things exciting with daily rewards. Log in every day, an
               data-bs-parent="#faqAccordion"
             >
               <div className="accordion-body text-white bg-dark">
-                Yes, downloading and registering on 92 Paisa is completely free.
+                Yes, downloading and registering on 92 PAK is completely free.
               </div>
             </div>
           </div>
@@ -248,7 +249,7 @@ Moreover, the app keeps things exciting with daily rewards. Log in every day, an
                 data-bs-toggle="collapse"
                 data-bs-target="#collapse3"
               >
-                Is 92 Paisa safe?
+                Is 92 PAK safe?
               </button>
             </h2>
             <div
